@@ -1,0 +1,33 @@
+Prepull Dark Missionary at 3 seconds
+Pot at 2 seconds
+TBN Alex at 1 second
+
+----------------------------------------------------------------
+
+TBN and OBL on Alex after lazy lasers (just before 3rd hit)
+
+para 1 -> start at A go clock 
+
+sc1 -> if laser, second and third mech are same sides (debuff will change)
+
+pdiag -> party out / tanks in
+
+apology -> party in / tanks out
+
+para 2 TOWERS -> focus target H2, if we both have tower, go to D. go to B
+  -> if have tower and on side with opposite color, tower center of plat, otherwise tower center of arena
+
+2,4 go to boss spawn after first dash
+CLOCKWISE
+
+     ~     *       ~
+   ~           2,4   ~
+ ~  5,7                ~
+~                       ~
+~                 6,8   ~
+  ~                   ~
+    --    1,3      --
+
+|-------Beams order--------|
+|   5/7  6/8   1/3  2/4    |
+|--------------------------|
