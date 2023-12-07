@@ -1,10 +1,12 @@
+Sprint any time before 5 seconds
+BW at 4 seconds
 Prepull Dark Missionary at 3 seconds
 Pot at 2 seconds
 TBN Alex at 1 second
 
 ----------------------------------------------------------------
 
-TBN and OBL on Alex after lazy lasers (just before 3rd hit)
+TBN and OBL on Alex after lazy lasers (just after second laser)
 
 para 1 -> start at A go clock 
 
@@ -14,11 +16,12 @@ pdiag -> party out / tanks in
 
 apology -> party in / tanks out
 
-para 2 TOWERS -> focus target H2, if we both have tower, go to D. go to B
+para 2 TOWERS -> focus target H2, if we both have tower, go to D. otherwise go to B
   -> if have tower and on side with opposite color, tower center of plat, otherwise tower center of arena
 
 2,4 go to boss spawn after first dash
 CLOCKWISE
+IT'S OKAY TO PREPOSITION LASERS
 
      ~     *       ~
    ~           2,4   ~
@@ -31,3 +34,15 @@ CLOCKWISE
 |-------Beams order--------|
 |   5/7  6/8   1/3  2/4    |
 |--------------------------|
+
+Dark missionary Theos Ultima
+
+SC2A -> pre-mit (rampart/SW) on third orb for (peri|apo)dialogos
+     -> pre-mit Dark Mind as lasers go off on third orb
+
+Reprisal just before cast bar finishes for (peri|apo)dialogos
+
+POT GCD AFTER REPRISAL
+
+2 MINUTE IS *JUST AFTER* PERI/APO
+
