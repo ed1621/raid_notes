@@ -5,6 +5,7 @@ wait for chains then move north
 dark missionary classical?
 
 classical 1 :: 2 minute during this :cry:
+------------------------------
   -> BPOG
   -> Alpha = A triangle
   -> Beta = Box
@@ -13,6 +14,7 @@ classical 1 :: 2 minute during this :cry:
 kitchen sink crush helm!
 
 caloric 1
+---------------
   if beacon, go to D. BE ON THE INSIDE EDGE OF THE MARKER
     if alex has beacon, go to c
     otherwise go center. when moving, prio is A go clockwise
@@ -24,6 +26,7 @@ caloric 1
 
 
 Ekpyrosis
+-------------------
   if N/S -> MTTM
   if E/W -> M
             T
@@ -31,8 +34,16 @@ Ekpyrosis
             R
 
 Pangensis
+-----------------
   conga line
   0 move forward
   1 move back
   0 and short 2 take first tower
 
+Classical 2
+-----------------------
+•  1  •  8  •  7  •
+2     3     6     5
+•  4  •  W  •  4  •
+5     6     3     2
+•  7  •  8  •  1  •
