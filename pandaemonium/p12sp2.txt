@@ -4,9 +4,9 @@ wait for chains then move north
 
 dark missionary classical?
 
-classical 1 :: 2 minute during this :cry:
+classical 1 
 ------------------------------
-  -> BPOG
+  -> Xbox OG
   -> Alpha = A triangle
   -> Beta = Box
   -> Move after tethers disappear
@@ -39,6 +39,17 @@ Pangensis
   0 move forward
   1 move back
   0 and short 2 take first tower
+  SHORT AND LONG REFER TO THE TIMER OF THE COLOR
+  SHORT <= 16, LONG <= 20
+  FOR LONG TWO, FIRST TOWER ISNT OPPOSITE COLOR
+
+            (0      )  
+            (short 2)
+  (0      )             DEBUFF? SWAP next tower 
+  (short 2) 
+            (1      )
+            (long 2 )
+
 
 Classical 2
 -----------------------
