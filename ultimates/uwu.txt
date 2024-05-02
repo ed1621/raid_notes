@@ -40,7 +40,7 @@ it's okay to dump all MP
 ---------------------------------
 LB intermission
 ---------------------------------
-TBN Lili before proximity aoes go off
+TBN Lili (or whoever 8 is) before proximity aoes go off
 
 one aoe combo on bits to build gauge
 
@@ -51,6 +51,18 @@ Hit lahabreadsticks as much as you can with GCDs
 ---------------------------------
 ULTIMA
 ---------------------------------
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!  MOVE WHEN GARUDA SHRIEKS                  !!
+!!    -> end of predation                     !!
+!!    -> when MT is invulning TBs             !!
+!!    -> after first orb in anni              !!
+!!    -> before tank purge cast bar finishes  !!
+!!    -> after mistral shrieks in supp        !!
+!!    -> end of supp                          !!
+!!    -> after her roulette raidwide          !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 start phase with stance on
 
 count down from 5 when white screen starts to wear off
@@ -65,11 +77,9 @@ stay with party after titan landslides
 
 voke when MT gets laser debuff (aetheric plasma?)
 
-MOVE WHEN GARUDA SHRIEKS
-
 ALEX WILL TAKE FINAL ORBS! STAY WITH PARTY
 
-invuln 3rd homing lasers
+invuln 3rd homing lasers (between anni and supp)
 
 LB1 Aetheric Boom
 
