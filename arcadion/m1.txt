@@ -7,12 +7,10 @@ if one-two paw, but no paw is glowing, it's going to be the AOE baits
 double = light party
 quadruple = pairs
 
-use little suares in middle of verticle square division as reference for where clone will jump!
-
 splinter cell
 T H D
 
 Tank invuln raining cats
--> be in with LP for first two hits
+-> be in with LP for first hit
 -> go to butt with rest of light party
 
