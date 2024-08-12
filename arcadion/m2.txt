@@ -1,0 +1,5 @@
+SPLASH of Venom = spread
+DROP of Venom = pairs
+
+Centerstage combo, in first then out
+Outerstage combo, out first then in
