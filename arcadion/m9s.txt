@@ -6,7 +6,7 @@ LIGHTNING on jayden after first lightspeed gcd
 ------------
 vamp stamp
 ------------
-BLUE and GREEN on Alex during vamp stamp
+BLUE and GREEN on MT during vamp stamp
 NEUTRAL+HELIOS to top, regen, and shield
 SUN before brutal rain
 MACRO after 2 hits of multi-hit
@@ -22,7 +22,7 @@ COLLECTIVE UNCONCIOUS before crowd kill
 aetherletting
 ---------------
 NEUTRAL+HOROSCOPE before finale fatale
-HELIOSCONJUNCTION after finale fatale (horoscope _should_ heal after marker drops)
+HELIOS after finale fatale (horoscope _should_ heal after marker drops)
 
 --------------
 vamp stamp 2
@@ -30,22 +30,23 @@ vamp stamp 2
 HELIOS CONJUNCTION after everyone pops
 STAR during second cleave (heals brutal rain)
 CELESTIAL OPPOSITION after insatiable thirst
+LIGHTSPEED DURING FIRST CLEAVE
 
 -----------
 nail adds
 -----------
 HORO->HELIOS->HORO after stage change
 MACRO after first TBs
-REGEN+EXALTATION on Alex
+REGEN+EXALTATION on MT
 NEUTRAL+HELIOS during second TBs
-YELLOW on alex during after second TBs
+YELLOW on MT after second TBs
 HELIOS during 3rd TBs
 CELESTIAL OPPOSITION after transition 
 COLLECTIVE UNCONCIOUS before crowd kill
+LIGHTSPEED AT START OF CROWD KILL
 
 ----------------
 hell in a cell
-BEING ALIVE IS MORE IMPORTANT THAN PERSONAL DAMAGE
 ----------------
 HORO+HELIOS right after taking tower (right at end of castbar?)
 LADY OF CROWNS after first set->second amp/spread
@@ -55,6 +56,7 @@ COLLECTIVE UNCONCIOUS before second set->second amp/spread
 undead deathmatch
 ------------------
 CELESTIAL OPPOSITION after towers
-LIGHTSPEED FOR MOVEMENT
-MACRO before brutal rain->LADY OF CROWNS after 2nd hit->MICRO at the end?
-deal with raidwides at the end (2 then enrage)
+LIGHTSPEED FOR MOVEMENT. 
+SECOND LIGHTSPEED MID SECOND MOVEMENT FOR 2 MINUTE
+MACRO before brutal rain->LADY OF CROWNS after 2nd hit->MICRO at the end
+deal with raidwides at the end (vamp stomp, 2 more then enrage)
