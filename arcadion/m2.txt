@@ -1,5 +1,15 @@
 SPLASH of Venom = spread
 DROP of Venom = pairs
 
+SPREAD SPOTS
+R   R
+M   M
+M   M
+R   R
+
 Centerstage combo, in first then out
 Outerstage combo, out first then in
+
+SHIELD SAMBAS
+First Spread/Pairs
+Honey Finales

@@ -1,0 +1,50 @@
+LIVING LIQUID
+------------------------------------------------
+PREPULL: Meikyo at 10, sprint at 5, TN at 1
+General: LL and LH need to stay within 5% of each other
+
+Third eye and Feint first cascade
+Guren both in opener
+feed dolls at <= 25% health
+
+------------------------------------------------
+LIMIT CUT
+------------------------------------------------
+12,56 W to NE
+34,78 E to SW
+
+BEHIND BLACK LINE TOWARDS CENTER OF AOE IS SAFE
+
+4 aoes, middle, 4 aoes, middle
+
+EVEN NUMBERS LAG BEHIND! 
+
+  1256
+    3 AOES -> STOP -> MIDDLE AOE -> 2 AOES -> STOP
+
+  3478
+    4 AOES -> STOP -> MIDDLE AOE -> 4 AOES -> STOP
+
+------------------------------------------------
+BJCC
+------------------------------------------------
+BURST ON CC SINCE I WON'T BE ABLE TO HIT IT ALL THAT MUCH
+  Hit BJ otherwise
+I go NE?
+Out for chakrams, then in for baited AOES
+  DON'T GET SO CLOSE YOU PASS NISI
+Rotate CCW to pass/get Nisi 
+  SAME PARTNER FOR SECOND PASS
+
+If lightning, pass to MT
+
+W enum unless both melees have enum, if that, go E
+PASS WITH MT AGAIN AFTER
+
+DONT BE IN BJ's HITBOX DURING FLAMETHROWER
+
+Final water stack REQUIRES ME (or tanks but that's not preferable)
+
+BPOG lineup
+
+Kill both at rougly the same time
